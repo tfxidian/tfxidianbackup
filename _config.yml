@@ -9,8 +9,8 @@ avatarDesc: 信息安全 / 软件开发
 url: "http://baixin.io"
 
 # Comment
-comment:
-    disqus: leopard
+#comment:
+    #disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
